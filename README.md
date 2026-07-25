@@ -1,9 +1,19 @@
 # Matricula-UAE-Grupo-5
+## Objetivo
+Sistema para la gestión del proceso de matrícula en línea de la Universidad 
+Agraria del Ecuador, que permite a los estudiantes iniciar sesión, seleccionar 
+materias según cupos disponibles y confirmar su matrícula.
 
-ahi ??
-## si ahora si, deja pongo bien el nombre jaja
+## Integrantes y roles
+- Pedro Salazar — Administrador del repositorio
+- Patricia Toaquiza — Desarrolladora de rama (Login del estudiante)
+- Kevin Mosquera — Desarrollador de rama (Selección de materias)
+- Jean Macías — Desarrollador de rama (Resumen y confirmación de matrícula)
+- Jorge Vera — Diseñador líder de prototipo (Figma)
 
-no ves o si ?? si viste le emenaje 
-# el de "ahi"? si si lo vi
-que hacemnos empezamos hacer ?? que va primero ??
-# aver viendo que nadie mas contesta, yo podria hacer lo de administrador y programador, te envie una captura en el whatsaap
+## Tablero Jira
+Pega aquí el link del tablero Jira MAT
+
+## Prototipo Figma
+ el link de solo lectura
+
