@@ -6,4 +6,4 @@ ahi ??
 no ves o si ?? si viste le emenaje 
 # el de "ahi"? si si lo vi
 que hacemnos empezamos hacer ?? que va primero ??
-aver viendo que nadie mas contesta, yo podria hacer lo de administrador y programador, te envie una captura en el whatsaap
+# aver viendo que nadie mas contesta, yo podria hacer lo de administrador y programador, te envie una captura en el whatsaap
